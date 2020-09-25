@@ -2,10 +2,10 @@
 
 * [О чём речь?](README.md)
 
-## Концепция
+## Концепция <a id="concept"></a>
 
-* [Логи 2.0](koncepciya/logs-2.0.md)
-* [Диагностики](koncepciya/diagnostics.md)
-* [Уведомления](koncepciya/notifications.md)
-* [Мониторинг сервисов](koncepciya/systemd-monitoring.md)
+* [Логи 2.0](concept/logs-2.0.md)
+* [Диагностики](concept/diagnostics.md)
+* [Уведомления](concept/notifications.md)
+* [Мониторинг сервисов](concept/systemd-monitoring.md)
 
