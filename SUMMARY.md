@@ -4,8 +4,8 @@
 
 ## Концепция
 
-* [Логи 2.0](koncepciya/logi-2.0.md)
-* [Диагностики](koncepciya/diagnostiki.md)
-* [Уведомления](koncepciya/uvedomleniya.md)
-* [Мониторинг сервисов](koncepciya/monitoring-servisov.md)
+* [Логи 2.0](koncepciya/logs-2.0.md)
+* [Диагностики](koncepciya/diagnostics.md)
+* [Уведомления](koncepciya/notifications.md)
+* [Мониторинг сервисов](koncepciya/systemd-monitoring.md)
 
