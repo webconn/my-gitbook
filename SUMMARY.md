@@ -8,5 +8,4 @@
 * [Диагностики](concept/diags/README.md)
   * [Sticky-диагностики](concept/diags/diags-sticky.md)
 * [Уведомления](concept/notifications.md)
-* [Мониторинг сервисов](concept/systemd-monitoring.md)
 
